@@ -1,0 +1,16 @@
+
+]
+java:S2184:"BCast one of the operands of this addition operation to a "double".(­Éå€üÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‰ðâÊþÿÿÿÿ
+P	java:S125"<This block of commented-out lines of code should be removed.(É¸‘
+V	java:S125	"<This block of commented-out lines of code should be removed.(™°ÈŸÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(®ýáëûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(º‘Ô‹úÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ýäõüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(º‘Ô‹úÿÿÿÿ
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(º‘Ô‹úÿÿÿÿ
+V	java:S125'"<This block of commented-out lines of code should be removed.(ýäõüÿÿÿÿ
+P	java:S1253"<This block of commented-out lines of code should be removed.(¬„‰z
+N	java:S106H"9Replace this use of System.out or System.err by a logger.(öçÂà
+N	java:S106J"9Replace this use of System.out or System.err by a logger.(¡À¸Í
+S	java:S106K"9Replace this use of System.out or System.err by a logger.(‚†¥±ýÿÿÿÿ
